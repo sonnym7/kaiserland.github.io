@@ -8,7 +8,7 @@
 ##### thank you again!
 
 ### pricing
-<img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50">
+<img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> <img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> <img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> <img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> 
 
 ### for pricing on pieces, click on the size/type you'd like to see
 [<img src="./github-site-images/bust-size.png" width="400" align="center">](./digital_bust.md)
