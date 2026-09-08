@@ -8,7 +8,7 @@
 ##### thank you again!
 
 ### pricing
-<img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50">
+<img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50">
 
 ### for bust pieces (like this),
 <p align="center">
@@ -37,7 +37,7 @@
 - $65 for a more detailed render with more than two tones
   ###### like this!
 <p align="center">
-  <img src="./github-site-images/Screenshot_2026-09-08_14-06-19.png" width="500">
+  <img src="./github-site-images/Screenshot_2026-09-08_14-59-08.png" width="500">
 </p>
 
 
