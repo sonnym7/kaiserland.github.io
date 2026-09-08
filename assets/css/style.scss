@@ -13,6 +13,7 @@ body {
     --color-canvas-default, copied from 
     https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css
     */
+    color: white;
     background-color: #ffffff;
   }
 }
@@ -20,6 +21,7 @@ body {
 @media (prefers-color-scheme: dark) {
   body {
     /* --color-canvas-default */
+    color: white;
     background-color: #0d1117;
   }
 }
