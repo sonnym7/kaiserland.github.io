@@ -10,15 +10,15 @@
  
 ♫⃠ some of the changes include pricing changes and that i'm now offering traditional art which i will mail to you (with additional costs of shipping on top of the price of the artwork) and if people seem to want them -- physical prints as well (keep your eyes peeled to see if they're offered whenever you're reading this)!!
 
-<img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> <img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> <img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png">
+<img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> <img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> <img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> <img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> <img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ### as of 09/08/2026, 
-| slot 1      | OPEN! |
-| ----------- |:-----:|
-| slot 2      | OPEN! |
-| slot 3      | OPEN! |
-| slot 4      | OPEN! |
+                                                            | slot 1      | OPEN! | 
+                                                            | ----------- |:-----:|
+                                                            | slot 2      | OPEN! |
+                                                            | slot 3      | OPEN! |
+                                                            | slot 4      | OPEN! |
 # 4/4 slots are OPEN! please feel free to DM me on instagram to place your order!
 
 ### ♫⃠♫⃠♫⃠ here are some examples of my art (at a glance)! more specific ones are included in the links
