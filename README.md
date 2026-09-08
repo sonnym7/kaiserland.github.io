@@ -1,6 +1,6 @@
 ###### (please excuse the appearance, this is my first github site, i will hopefully improve this soon!)
 ### hi, thank you for your interest in my commissions!
-### as of 09/08/2026 commissions are now: OPEN
+### as of 09/08/2026 commissions are now: `OPEN`
 
 ♫⃠ welcome to my commission information page! if you're here by accident, this is the artwork commission information of @kyusslol (on instagram)
 
