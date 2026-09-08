@@ -11,7 +11,7 @@
 <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50">
 
 ### for pricing on pieces, click on the size/type you'd like to see
-[<img src="./github-site-images/bust-size.png" width="500">](./digital_bust.md)bust [<img src="./github-site-images/half.png" width="500">](./digital_half.md)half 
+[bust][<img src="./github-site-images/bust-size.png" width="500">](./digital_bust.md)bust [<img src="./github-site-images/half.png" width="500">](./digital_half.md)half 
 [<img src="./github-site-images/full-size.png" width="500">](./digital_bust.md)full [<img src="./github-site-images/extra-character.png" width="500">](./digital_bust.md)extra character [<img src="./github-site-images/group-shot.png" width="1000">](./digital_bust.md)group
 
 ###### click on the fish to go back
