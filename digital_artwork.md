@@ -21,6 +21,19 @@
 #### extra character 
 [<img src="./github-site-images/group-shot.png" width="600" align="center">](./digital_bust.md)
 #### group
+
+### how do i place an order?
+1. message me on instagram with what type of artwork you would like to order
+2. give me some details on how you would like me to draw your character
+  - references are best, but not required! whether or not you provide one, i will consult you as i go and make changes
+  - ***significant changes (for example, if you've changed your mind about something fundamental like a pose, character, major feature changes, etc.) that require significant backtracking will cost an extra $10***
+4. pay half of the total upfront to my paypal
+  - i'll provide you the details in dms!
+5. i work on your order and give you updates...
+6. i send you a preview of the finished product
+  - minor changes that don't require significant backtracking are free!
+7. you send the remaining half of the payment
+8. i email you the full file for quality
   
 
 ###### click on the fish to go back
