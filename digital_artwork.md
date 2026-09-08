@@ -9,4 +9,7 @@
 
 ### pricing
 ##### for bust pieces,
+<p align="center">
+  <img src="./github-site-images/bust-size.png" width="600">
+</p>
 
