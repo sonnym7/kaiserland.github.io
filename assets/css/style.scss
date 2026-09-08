@@ -5,8 +5,10 @@
 
 body {
   margin: 0;
-  font-family: "Gill Sans Extrabold", sans-serif;
-  font-family: "Goudy Bookletter 1911", sans-serif;
+  
+  .monospace {
+  font-family: "Lucida Console", "Courier New", monospace;
+  }
 }
 
 @media (prefers-color-scheme: light) {
