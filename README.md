@@ -2,13 +2,13 @@
 ### hi, thank you for your interest in my commissions!
 ### as of 09/08/2026 commissions are now: `OPEN`
 
-♫⃠ welcome to my commission information page! if you're here by accident, this is the artwork commission information of @kyusslol (on instagram)
+- ♫⃠ welcome to my commission information page! if you're here by accident, this is the artwork commission information of @kyusslol (on instagram)
 
-♫⃠ right now, i can accommodate working on 4 orders at a time, see below for available slots - i'll also try and update the following section with estimates on when i think the next slot will open if they're all closed⠀⠀⠀
+- ♫⃠ right now, i can accommodate working on 4 orders at a time, see below for available slots - i'll also try and update the following section with estimates on when i think the next slot will open if they're all closed⠀⠀⠀
 
-♫⃠ you might recall that i had a different page set up on carrd -- i've retired that one since github is easier to update and i've made some changes to my commissions - apologies for the confusion!
+- ♫⃠ you might recall that i had a different page set up on carrd -- i've retired that one since github is easier to update and i've made some changes to my commissions - apologies for the confusion!
  
-♫⃠ some of the changes include pricing changes and that i'm now offering traditional art which i will mail to you (with additional costs of shipping on top of the price of the artwork) and if people seem to want them -- physical prints as well (keep your eyes peeled to see if they're offered whenever you're reading this)!!
+- ♫⃠ some of the changes include pricing changes and that i'm now offering traditional art which i will mail to you (with additional costs of shipping on top of the price of the artwork) and if people seem to want them -- physical prints as well (keep your eyes peeled to see if they're offered whenever you're reading this)!!
 
 <img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> <img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> <img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> <img src="./github-site-images/Screenshot_2026-09-01_12-04-12.png"> <img src="./github-site-images/Screenshot_2026-09-01_13-04-57.png"> 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -21,5 +21,8 @@
 # 4/4 slots are OPEN! please feel free to DM me on instagram to place your order!
 
 ### ♫⃠♫⃠♫⃠ here are some examples of my art (at a glance)! more specific ones are included in the links
+###### (you can also see more on my [instagram](https://www.instagram.com/kyusslol/) )
+<img src="./github-site-images/Screenshot_2026-09-08_13-59-13.png"> <img src="./github-site-images/Screenshot_2026-09-08_14-06-19.png"> <img src="./github-site-images/Screenshot_2026-09-08_14-01-54.png"> <img src="./github-site-images/Screenshot_2026-09-08_13-59-13.png"> <img src="./github-site-images/Screenshot_2026-09-08_14-02-03.png"> 
 
-
+### [♫⃠♫⃠♫⃠ here is the information for commissioning digital artwork](./digital_artwork.md)
+### [♫⃠♫⃠♫⃠ here is the information for commissioning traditional artwork](./traditional_artwork.md)
