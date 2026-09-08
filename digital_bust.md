@@ -24,7 +24,4 @@
 </p>
 
 ###### click on the cross stitch to go back, and the floppydisk to go home
-<p align="center">
-  [<img src="./github-site-images/goldfish.png" width="70">](./digital_artwork.md) [<img src="./github-site-images/floppy.png" width="70">](./README.md)
-</p>
-
+[<img src="./github-site-images/goldfish.png" width="70">](./digital_artwork.md) [<img src="./github-site-images/floppy.png" width="70">](./README.md)
