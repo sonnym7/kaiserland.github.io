@@ -14,11 +14,10 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ### as of 09/08/2026, 
-                                                            | slot 1      | OPEN! | 
-                                                            | ----------- |:-----:|
-                                                            | slot 2      | OPEN! |
-                                                            | slot 3      | OPEN! |
-                                                            | slot 4      | OPEN! |
+| slot 1      | slot 2      | slot 3      | slot 4      |
+| ----------- |:-----------:|:-----------:|:-----------:|
+|   `OPEN!`   |   `OPEN!`   |   `OPEN!`   |   `OPEN!`   |
+
 # 4/4 slots are OPEN! please feel free to DM me on instagram to place your order!
 
 ### ♫⃠♫⃠♫⃠ here are some examples of my art (at a glance)! more specific ones are included in the links
