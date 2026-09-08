@@ -1,11 +1,14 @@
-# hi, test
->A Minimal Dark theme for jekyll with minimal CSS and blazing fast loading of pages thanks to [Pill](https://github.com/rumkin/pill) 
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
-[Live Demo](https://sharadcodes.github.io/jekyll-theme-dark-reader/)
+Alternatively, for H1 and H2, an underline-ish style:
 
-# Screenshots
+Alt-H1
+======
 
-## BLOG PAGE
-![Blog page](https://github.com/sharadcodes/jekyll-theme-dark-reader/raw/master/screenshots/1.png)
-## POST EXAMPLE
-![Post page](https://github.com/sharadcodes/jekyll-theme-dark-reader/raw/master/screenshots/2.png)
+Alt-H2
+------
