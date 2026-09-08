@@ -10,9 +10,9 @@
 ### pricing
 <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50"> <img src="./github-site-images/chick.png" width="50">
 
-### for pricing on bust pieces (like this), click on the fish below
+### for pricing on pieces, click on the size/type you'd like to see
 <p align="center">
-  <img src="./github-site-images/bust-size.png" width="500">
+  [<img src="./github-site-images/bust-size.png" width="300">](./digital_bust.md) [<img src="./github-site-images/half.png" width="300">](./digital_bust.md) [<img src="./github-site-images/full-size.png" width="300">](./digital_bust.md) [<img src="./github-site-images/extra-character.png" width="300">](./digital_bust.md) [<img src="./github-site-images/group-shot.png" width="300">](./digital_bust.md)
 </p>
 
 [<img src="./github-site-images/goldfish.png" width="70">](./digital_bust.md)
