@@ -14,3 +14,5 @@
 <p align="center">
   <img src="./github-site-images/bust-size.png" width="500">
 </p>
+
+[<img src="./github-site-images/goldfish.png" width="70">](./digital_bust.md)
