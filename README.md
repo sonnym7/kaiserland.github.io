@@ -22,7 +22,9 @@
 
 ### ♫⃠♫⃠♫⃠ here are some examples of my art (at a glance)! more specific ones are included in the links
 ###### (you can also see more on my [instagram](https://www.instagram.com/kyusslol/) )
-<img src="./github-site-images/Screenshot_2026-09-08_13-59-13.png" width="300"> <img src="./github-site-images/Screenshot_2026-09-08_14-06-19.png" width="300"> <img src="./github-site-images/Screenshot_2026-09-08_14-01-54.png" width="300"> <img src="./github-site-images/Screenshot_2026-09-08_13-59-13.png" width="300"> <img src="./github-site-images/Screenshot_2026-09-08_14-02-03.png" width="300"> 
+<p align="center">
+ <img src="./github-site-images/Screenshot_2026-09-08_13-59-13.png" width="300"> <img src="./github-site-images/Screenshot_2026-09-08_14-06-19.png" width="300"> <img src="./github-site-images/Screenshot_2026-09-08_14-01-54.png" width="300"> <img src="./github-site-images/Screenshot_2026-09-08_13-59-13.png" width="300"> <img src="./github-site-images/Screenshot_2026-09-08_14-02-03.png" width="300">
+</p>
 
 ### ♫⃠♫⃠♫⃠ here is the information for commissioning digital artwork
 [<img src="./github-site-images/Treasure_Clione.png" width="100">](./digital_artwork.md)
