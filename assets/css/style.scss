@@ -5,7 +5,11 @@
 
 body {
   margin: 0;
-  background-image: url("github-site-images\github-bg.png") center center/cover repeat
+  background-image: url("github-site-images\github-bg.png");
+  background-size: cover;
+  background-position: 0% 25%;
+  background-color: #241f31;
+  background-attachment: fixed;
   font-family: "Courier New", monospace;
   table, th, td {
   border: 1px solid;
