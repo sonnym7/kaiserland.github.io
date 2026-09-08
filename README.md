@@ -10,7 +10,6 @@
  
 ♫⃠ some of the changes include pricing changes and that i'm now offering traditional art which i will mail to you (with additional costs of shipping on top of the price of the artwork) and if people seem to want them -- physical prints as well (keep your eyes peeled to see if they're offered whenever you're reading this)!!
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣤⣤⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
