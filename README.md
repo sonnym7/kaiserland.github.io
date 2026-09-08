@@ -29,6 +29,7 @@
 ### as of 09/08/2026, 
 | slot 1      | OPEN! |
 | ----------- |:-----:|
+
 | slot 2      | OPEN! |
 | slot 3      | OPEN! |
 | slot 4      | OPEN! |
